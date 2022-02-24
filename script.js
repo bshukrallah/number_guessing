@@ -1,3 +1,2 @@
 'use strict';
-const test = a;
-
+console.log(document.querySelector('.message').textContent); //show text from element
